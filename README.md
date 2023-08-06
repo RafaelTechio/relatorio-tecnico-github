@@ -51,6 +51,18 @@ _imagem aqui_
 
 Agora, iremos aprender como atualizar outras branchs no repositório local. Para isso, iremos usar os comandos ```git pull``` para atualizar ```git branch``` para listar as branchs e ```git checkout _branch name_``` para mudar de branch.
 
-_imagme aqui_
+_imagem aqui_
 
 ## Git Push Branch to GitHub
+
+Nessa sessão, iremos criar uma branch nova:
+
+_imagem aqui_
+
+Subir algumas alterações:
+
+_imagem aqui_
+
+E então fazer o pull request, levando as alterações da branch update-readme para a branch-test
+
+_imagem aqui_
