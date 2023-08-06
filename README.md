@@ -22,3 +22,10 @@ _imagem aqui_
 O github permite a edição de arquivos como readme em seu site. Para tal, basta clicar no ícone de lápis, editar e clicar no botão de commitar, editando as informações caso desejar.
 
 _imagem aqui_
+
+## Pull from Github
+
+Nessa sessão, aprendi que o git pull é um comando feito por outros dois: o ```git fetch``` e o ```git merge```
+A seguir, imagens de como os comandos funcionam, usando o ```git status``` para avaliar:
+
+_imagem aqui_
