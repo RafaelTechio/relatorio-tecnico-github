@@ -29,3 +29,7 @@ Nessa sessão, aprendi que o git pull é um comando feito por outros dois: o ```
 A seguir, imagens de como os comandos funcionam, usando o ```git status``` para avaliar:
 
 _imagem aqui_
+
+Usando o ```git pull origin```:
+
+_imagem aqui_
