@@ -39,3 +39,9 @@ _imagem aqui_
 Agora, iremos enviar as mudanças locais até o repositório usando ```git push``` e aprendendo a usar o commit.
 
 _imagem aqui_
+
+## Git GitHub Branch
+
+Nessa parte, iremos criar uma nova branch através do github:
+
+_imagem aqui_
