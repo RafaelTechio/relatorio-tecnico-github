@@ -42,7 +42,7 @@ O github permite a edição de arquivos como readme em seu site. Para tal, basta
 
 ### Pull from Github
 
-Nessa sessão, aprendi que o git pull é um comando feito por outros dois: o ```git fetch``` e o ```git merge```
+Nessa seção, aprendi que o git pull é um comando feito por outros dois: o ```git fetch``` e o ```git merge```
 A seguir, imagens de como os comandos funcionam, usando o ```git status``` para avaliar:
 
 ![imagem 13](https://github.com/RafaelTechio/relatorio-tecnico-github/blob/master/imagens/13.png)
@@ -83,7 +83,7 @@ Agora, iremos aprender como atualizar outras branchs no repositório local. Para
 
 ### Git Push Branch to GitHub
 
-Nessa sessão, iremos criar uma branch nova:
+Nessa seção, iremos criar uma branch nova:
 
 ![imagem 28](https://github.com/RafaelTechio/relatorio-tecnico-github/blob/master/imagens/28.png)
 
