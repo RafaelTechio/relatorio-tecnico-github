@@ -33,3 +33,9 @@ _imagem aqui_
 Usando o ```git pull origin```:
 
 _imagem aqui_
+
+## Git Push to Github
+
+Agora, iremos enviar as mudanças locais até o repositório usando ```git push``` e aprendendo a usar o commit.
+
+_imagem aqui_
