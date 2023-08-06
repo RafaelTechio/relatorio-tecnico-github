@@ -45,3 +45,12 @@ _imagem aqui_
 Nessa parte, iremos criar uma nova branch através do github:
 
 _imagem aqui_
+
+
+## Git Pull Branch from GitHub
+
+Agora, iremos aprender como atualizar outras branchs no repositório local. Para isso, iremos usar os comandos ```git pull``` para atualizar ```git branch``` para listar as branchs e ```git checkout _branch name_``` para mudar de branch.
+
+_imagme aqui_
+
+## Git Push Branch to GitHub
