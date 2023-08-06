@@ -8,7 +8,7 @@ O git é um sistema de gerenciamento de arquivos que suporta versionamento e his
 
 ## Objetivo
 
-Esse relatório técnico tem como objetivo documentar passo a passo as sessões de tutorial de github do site w3schools, de Get Started até Push to Branch. O link para visualizar as sessões pode ser acessado [aqui](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github).
+Esse relatório técnico tem como objetivo documentar passo a passo as seções de tutorial de github do site w3schools, de Get Started até Push to Branch. O link para visualizar as seções pode ser acessado [aqui](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github).
 
 ## Desenvolvimento
 
